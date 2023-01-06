@@ -1,0 +1,23 @@
+.EightBall {
+	width: 250px;
+	height: 250px;
+	border-radius: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 150px solid black;
+	cursor: pointer;
+}
+
+.EightBall-message {
+	font-weight: bold;
+}
+
+.EightBall-reset {
+	padding: 10px 30px;
+	background-color: white;
+	border: 1.5px solid black;
+	border-radius: 12px;
+	margin-top: 20px;
+	cursor: pointer;
+}
